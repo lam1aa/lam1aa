@@ -47,7 +47,6 @@ I am a Data Science student with professional experience in software engineering
 
 
 ## &#x1f4c8; GitHub Stats
-## 🔥 GitHub Contributions & Stats
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lam1aa&theme=synthwave&border_color=2e4058" alt="Lamia's GitHub Streak" />
 </p>
@@ -56,21 +55,12 @@ I am a Data Science student with professional experience in software engineering
   <img src="https://github-readme-stats.vercel.app/api?username=lam1aa&show_icons=true&theme=synthwave&bg_color=00000000&border_color=2e4058&include_all_commits=true&count_private=true" alt="Lamia's GitHub Stats" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=lam1aa&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Lamia's GitHub Trophies" />
-</p>
-
 ## 📊 Most Used Languages
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lam1aa&theme=synthwave&bg_color=00000000&border_color=2e4058&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 <p align='center'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lam1aa/lam1aa/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lam1aa/lam1aa/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lam1aa/lam1aa/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=lam1aa&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Lamia's GitHub Trophies" />
 </p>
