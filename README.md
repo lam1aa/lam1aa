@@ -50,9 +50,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<p align='center'>
+<!--<p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lam1aa&theme=synthwave&border_color=2e4058" alt="Lamia's GitHub Streak" />
-</p>
+</p>-->
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=lam1aa&show_icons=true&theme=synthwave&bg_color=00000000&border_color=2e4058&include_all_commits=true&count_private=true" alt="Lamia's GitHub Stats" />
