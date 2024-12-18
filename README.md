@@ -41,7 +41,7 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lam1aa&repo=pyseis&border_color=2e4058&layout=compact&show_icons=true&theme=synthwave&bg_color=00000000"" />
   </a>
 
-  <a href="https://github.com/lam1aa/Book_Template">
+  <a href="https://github.com/lam1aa/Intent-classification-with-FNN">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lam1aa&repo=Intent-classification-with-FNN&border_color=2e4058&layout=compact&show_icons=true&theme=synthwave&bg_color=00000000"" />
   </a>
 
